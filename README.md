@@ -2,9 +2,7 @@
 The point of this project was to create a website that the user can write notes and save them to the database and delete and create a note at anytime
 
 ## Features
-User Authentication: Securely sign up and log in to your personal NoteTaker account to access your notes from anywhere.
 Create Notes: Easily create new notes with a title and content using the intuitive interface.
-Edit and Update: Edit your existing notes to keep your information up-to-date.
 Delete Notes: Remove notes that are no longer needed to keep your workspace clutter-free.
 Responsive Design: Access your notes seamlessly on various devices, including desktops, tablets, and smartphones.
 
